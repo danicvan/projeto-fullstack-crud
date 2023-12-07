@@ -1,0 +1,31 @@
+{
+    "menu": {
+        "category": [
+            {
+                "description": "drinks",
+                "items": [
+                    {
+                        "name": "martini",
+                        "description": "",
+                        "amount": "R$ 20,00"
+                    },
+                    {
+                        "name": "vodka",
+                        "description": "",
+                        "amount": "R$ 13,00"
+                    },
+                    {
+                        "name": "cerveja",
+                        "description": "",
+                        "amount": "R$ 13,00"
+                    },
+                    {
+                        "name": "vinho",
+                        "description": "",
+                        "amount": "R$ 40,00"
+                    }
+                ]
+            }
+        ]
+    }
+}

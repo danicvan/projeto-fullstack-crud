@@ -1,0 +1,14 @@
+{
+  "name": "projeto-fullstack-crud",
+  "version": "1.0.0",
+  "description": "aula de back-end utilizando conceitos de API e CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daniel.camilo@grupomfx.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
