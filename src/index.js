@@ -10,5 +10,5 @@ app.use("/orders", orders);
 app.use("/login", login);
 
 app.listen(port, () => {
-    console.log('Listening on port ' + port);
+    console.log('Listen on port ' + port);
 });
